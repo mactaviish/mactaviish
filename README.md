@@ -1,6 +1,7 @@
 <h2 align="center">Hi there, I'm Leonardo.</h2>
 
 Here are some facts about me:
+<img src="grogu.gif" width="260px" align="right" style="margin-right:0px">
 
 - 🔭 I’m currently working with **Delphi**;
 - 🌱 I’m currently learning about **front-end**;
@@ -13,4 +14,3 @@ Here are some facts about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="grogu.gif" width="260px" align="right" style="margin-right:0px">
