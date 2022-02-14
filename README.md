@@ -1,12 +1,11 @@
-### Hi there 👋
+<h2 align="center">Hi there, I'm Leonardo.</h2>
 
+Here are some facts about me:
+
+- 🔭 I’m currently working with **Delphi**;
+- 🌱 I’m currently learning about **front-end**;
+- ✈️ I'm passionate about aviation, geek things and programming.
 <!--
-**mactaviish/mactaviish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="grogu.gif" width="260px" align="right" style="margin-right:0px">
