@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Leonardo.</h2>
+<h2 align="center">🌠 Hi there, I'm Leonardo. 🌌</h2>
 
 Here are some facts about me:
 <img src="grogu.gif" width="260px" align="right" style="margin-right:0px">
