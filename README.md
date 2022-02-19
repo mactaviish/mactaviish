@@ -5,7 +5,7 @@ Here are some facts about me:
 
 - 🔭 I’m currently working with **Delphi**;
 - 🌱 I’m currently learning about **front-end**;
-- ✈️ I'm passionate about aviation, geek things and programming.
+- ✈️ I'm passionate about **aviation**, **geek things** and **programming**.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
