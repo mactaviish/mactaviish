@@ -31,3 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mactaviish&show_icons=true&include_all_commits=true&count_private=true&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mactaviish&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+
+<div style="display: inline-block;vertical-align: top" align="center">
+  <img src="github-contribution-grid-snake.svg">
+</div>
