@@ -19,11 +19,11 @@
   <h3>Here are some facts about me:</h3>
   <p align="left">🔭 I’m currently working with <b>Delphi</b>;</p>
   <p align="left">🌱 I’m currently learning about <b>front-end</b>;</p>
-  <p align="left">✈️ I'm passionate about <b>aviation</b>, <b>geek things</b> and <b>programming</b>.</p>
+  <p align="left">✈️ I'm passionate about <b>aviation</b>, </br><b>geek things</b> and <b>programming</b>.</p>
 </div>
 
-<div align="center">
-	<img src="grogu.gif" width="260px" style="margin-right:0px">
+<div style="display: inline-block;vertical-align: top" align="center">
+  <img src="grogu.gif" width="456px" style="margin-right:0px">
 </div>
 
 <div align="center">
