@@ -1,4 +1,4 @@
-<h2 align="center">🌠 Hi there, I'm Leonardo. 🌌</h2>
+<h2 align="center">🌠 Hello there, I'm Leonardo. 🌌</h2>
 
 <div style="display: inline_block" align="center">
   <a href="https://www.linkedin.com/in/leodallacorte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
